@@ -1,0 +1,56 @@
+body{
+    background-image: url(COFFEE.jpg);
+    background-size: cover;
+    text-align: center;
+    color: gold;
+}
+
+#structure{
+    background:rgba(0, 0, 0, 0.966);
+    margin: 30px 30px;
+    border: 10px solid green;
+    width: 400px;
+    margin: 0 auto;
+    padding: 0px 10px;
+    border-radius: 10px;
+
+}
+
+img{
+    width: 300px;
+}
+
+hr{
+    padding: 5px 5px;
+}
+
+#Top{
+    display:flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+#Middle{
+    display:flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+#End{
+    display:flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+hr{
+    padding: 1px 1px;
+    margin: 5px 5px;
+}
+
+#Last{
+    text-shadow: 2px 1px gold;
+}
+
+
+
+
